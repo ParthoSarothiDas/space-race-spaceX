@@ -1,0 +1,15 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+7,CCAFS,SES-8,"3,170 kg",GTO,SES,Success,F9 v1.1,No attempt,3 December 2013,22:41
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,F9 v1.1[,Uncontrolled,21 September 2014,05:52
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,Orbcomm,"Success
+",F9 FT[,Success,22 December 2015,01:29
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,SKY Perfect JSAT Group,"Success
+",F9 FT[,Success,14 August 2016,05:26
+46,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,F9 FTB1036.2227,Controlled,23 December 2017,01:27
+66,CCAFS,GPS III,"4,400 kg",MEO,USAF,Success,F9 B5[,No attempt,23 December 2018,13:51
+77,CCAFS,JCSat-18,"6,956 kg",GTO,Sky Perfect JSAT,"Success
+",F9 B5B1056.3482,Success,17 December 2019,00:10
+103,KSC,NROL-108,C,LEO,NRO,"Success
+",F9 B5 ♺,Success,19 December 2020,14:00:00
+121,CCSFS,SXM-8,"7,000 kg",GTO,Sirius XM,"Success
+",F9 B5,Success,6 June 2021,04:26
